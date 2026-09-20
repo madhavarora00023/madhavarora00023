@@ -17,14 +17,11 @@ Federated Learning · Full-Stack Systems · Assistive Tech
 
 ## 🧰 Tech Stack
 
-<table width="100%">
-<tr>
-<td width="35%" valign="top" align="center">
-
+<div align="center">
 <img src="assets/engineer-breakdown.svg" alt="E - Explore, N - Network, G - Grow, I - Iterate, N - Nurture, E - Execute, E - Evaluate, R - Research" width="100%"/>
+</div>
 
-</td>
-<td width="65%" valign="top">
+<br/>
 
 **Languages**
 <br/>
@@ -80,10 +77,6 @@ Federated Learning · Full-Stack Systems · Assistive Tech
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
